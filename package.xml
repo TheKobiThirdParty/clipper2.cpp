@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>clipper2</name>
+  <version>6.4.2</version>
+  <description>
+     clipper2 wrapped in catkin for ROS
+  </description>
+
+  <maintainer email="alexis@thekobi.com">Alexis Paques</maintainer>
+
+  <license>Boost-1.0</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+</package>
